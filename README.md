@@ -123,6 +123,9 @@ The architecture comprises two major components:
 3. **Dropout:** Applied Dropout after the LSTM to prevent overfitting.  
 4. **Softmax Output Layer:** Outputs the probability distribution over the vocabulary for the next word prediction.
 
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/f56867d7-e07b-4447-9591-c4504fbed5ac" />
+
+
 ## 4. Results Analysis  
 
 This section evaluates the performance of the CNN-LSTM model, highlighting the key outcomes, limitations, and areas for improvement based on training, validation, and test data results.  
@@ -218,7 +221,3 @@ In this project, we successfully implemented a CNN-LSTM architecture to generate
 While the model performed well in generating relevant captions, there is room for improvement in its ability to handle complex scenes and contextual details. The results suggest that further research should focus on refining the model’s understanding of nuanced visual information and exploring alternative architectures for better performance. Overall, the project demonstrated the potential of using CNN-LSTM models for image captioning and provided a solid foundation for future advancements in this field. With improvements in model design and data diversity, image captioning systems can become even more accurate and applicable to real-world scenarios, such as assistive technologies and automated content creation.  
 
 ---  
-
-## References  
-
-*(List of references included in the original document remains unchanged.)*
